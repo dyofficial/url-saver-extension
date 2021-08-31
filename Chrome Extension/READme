@@ -1,0 +1,42 @@
+//myLeads = JSON.parse(myLeads);
+//
+//myLeads.push("www.fantastic.com");
+////console.log(myLeads);
+//myLeads = JSON.stringify(myLeads);
+//console.log(typeof myLeads);
+
+//localStorage.setItem("myLeads", "www.facebook.com");
+//console.log(localStorage);
+//let myCourses = [
+//  "Learn CSS animations",
+//  "UI Design Fundamentals",
+//  "Intro to clean code",
+//];
+//function logCourses() {
+//  for (let i = 0; i < myCourses.length; i++) {
+//    console.log(myCourses[i]);
+//  }
+//}
+//logCourses(myCourses);
+//let value = 20;
+//localStorage.setItem("value", 10);
+//console.log(localStorage.getItem("value"));
+//let data = [
+//  {
+//    player: "Jane",
+//    score: 52,
+//  },
+//  {
+//    player: "Mark",
+//    score: 41,
+//  },
+//];
+//const scoreEL = document.getElementById("score-el");
+//scoreEL.addEventListener("click", function () {
+//  scoreEL.textContent += data[0].score;
+//});
+////////////////////////////////////////////
+//uLEL.innerHTML += `<li> ${myLeads[i]} </li>`; //or
+    // const li = document.createElement("li");
+    // li.textContent = myLeads[i];
+    // uLEL.append(li);
