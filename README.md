@@ -1,3 +1,3 @@
 # url-saver-extension
 
-## A Javascript extension for chrome for saving tabs, urls, and notes
+## A Google Chrome extension built with plain javascript for saving tabs, urls, and notes
